@@ -2,8 +2,6 @@ import os
 
 os.system("cls")
 
-"""Pedir al usuario 5 calificaciones, después de pedirlas, imprimiras el promdedio de esas 5 calficaciones"""
-
 print("|--------------------Calculo de Promedio------------------|")
 
 i = 1
