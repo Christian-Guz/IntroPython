@@ -4,6 +4,8 @@ os.system("cls")
 
 print("|--------------------Calculo de Promedio------------------|")
 
+"""Pedir al usuario 5 calificaciones, después de pedirlas, imprimiras el promdedio de esas 5 calficaciones"""
+
 i = 1
 suma = 0
 
